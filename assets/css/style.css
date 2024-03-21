@@ -197,13 +197,14 @@ p{
 }
 
 
-.p2{
+p2{
   position: relative;
   font-family: var(--text-font);
   color: var(--text-color);
   font-weight: 400;
   margin: 0px;
   transition: all 500ms ease;
+  text-align: justify;
 }
 
 
