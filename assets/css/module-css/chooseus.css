@@ -7,7 +7,7 @@
 
 .image_block_two .image-box{
   position: relative;
-  min-height: 795px;
+  min-height: 0px;
 }
 
 .image_block_two .image-box .image{
